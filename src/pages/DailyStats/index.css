@@ -1,0 +1,14 @@
+.daily-stats-page {
+  width: 100%;
+}
+
+.filter-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.filter-form .ant-form-item {
+  margin-bottom: 16px;
+}
+

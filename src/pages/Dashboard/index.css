@@ -1,0 +1,31 @@
+.dashboard-page {
+  width: 100%;
+}
+
+.quick-links,
+.notices {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.quick-links li,
+.notices li {
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.quick-links li:last-child,
+.notices li:last-child {
+  border-bottom: none;
+}
+
+.quick-links a {
+  color: #1890ff;
+  text-decoration: none;
+}
+
+.quick-links a:hover {
+  text-decoration: underline;
+}
+
